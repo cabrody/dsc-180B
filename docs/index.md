@@ -1,7 +1,8 @@
 # Introduction
 # Data
-## AutoPhrase Results
+### AutoPhrase Results
 # Model
-## Creating and Refining the Model
-## Model Results and Output
+### Creating and Refining the Model
+### Model Results and Output
 # Conclusion
+### Future Work & Extensions
